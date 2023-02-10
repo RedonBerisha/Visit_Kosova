@@ -92,7 +92,7 @@
     background: white;
     padding-bottom: 2rem;
     transition: all 0.7s ease;
-    box-shadow: 0 20px 40px rgba(87, 84, 84, 0.328);
+    box-shadow: 0 20px 40px rgba(87, 84, 84, 0.327);
 }
 
 .rbcard-item:hover{
