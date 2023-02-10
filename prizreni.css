@@ -133,7 +133,7 @@ h4{
 .card:hover{
     transform: rotate(-3deg);
     transition: all 0.7s ease;
-    box-shadow: 0 20px 30px rgb(98, 232, 221);
+    box-shadow: 0 20px 30px rgba(232, 99, 98, 1);
 }
 
 .card-img-top {
